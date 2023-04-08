@@ -2,7 +2,7 @@
 Shell script for extracting all gresource files 
 
 ### Usage
-    $0 [-i <input_gresource>|--input=<input_gresource>]
+    bash extract-gresource.sh [-i <input_gresource>|--input=<input_gresource>]
         [-o <output_dir>|--output=<output_dir>]  [-h|--help]
 ### Options
     -i <input_gresource>, --input=<input_gresource>
