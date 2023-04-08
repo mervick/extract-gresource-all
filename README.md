@@ -11,3 +11,7 @@ Shell script for extracting all gresource files
         Output directory to extract files
     -h, --help
         Show this help
+
+### Example
+
+    bash extract-gresource.sh -i gtk.gresource -o gtk.gresource.dir
